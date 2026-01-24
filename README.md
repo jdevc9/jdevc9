@@ -26,7 +26,7 @@ Futuramente pretendo criar um canal para demonstrar alguns projetos e suas funç
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/jkodr33?color=000000&labelColor=000000&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/jdevc9?color=000000&labelColor=000000&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>   
 </p>
