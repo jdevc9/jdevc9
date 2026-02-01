@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6A00FE&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Josué+.;Seja-bem+vindo+ao+meu+Github👍;)](https://git.io/typing-svg)
 
-**Desenvolvedor Software e ML/IA**
+**Desenvolvedor Backend e ML/IA**
 
-Sou técnico na área de desenvolvimento de software e automação.\
-Tenho 20 anos e Atualmente sou desenvolvedor de automações e aplicativos Web, Android e iOS.\
+Sou técnico na área de desenvolvimento backend e automação.\
+Tenho 20 anos e Atualmente sou desenvolvedor de automações e Sistemas WebApps.\
 Busco uma oportunidade como Dev Júnior ou Estagiário para desenvolver e estudar projetos reais.\
 Futuramente pretendo criar um canal para demonstrar alguns projetos e suas funções.
 
