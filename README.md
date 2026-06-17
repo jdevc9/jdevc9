@@ -107,8 +107,8 @@ Futuramente pretendo criar um canal para demonstrar alguns projetos e suas funç
 
 <img 
     align="left" 
-    alt="Kali Linux" 
-    title="Kali Linux"
+    alt="Golang" 
+    title="Golang"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/golang/golang-original.svg" 
