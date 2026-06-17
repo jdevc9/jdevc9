@@ -107,11 +107,11 @@ Futuramente pretendo criar um canal para demonstrar alguns projetos e suas funç
 
 <img 
     align="left" 
-    alt="Golang" 
-    title="Golang"
+    alt="Go" 
+    title="Go"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/golang/golang-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" 
 />
 
 <br>
