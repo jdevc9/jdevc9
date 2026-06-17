@@ -73,34 +73,6 @@ Futuramente pretendo criar um canal para demonstrar alguns projetos e suas funç
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<br>
-<br>
-
-## 🚀 Frameworks
-
-
-<img 
-    align="left" 
-    alt="Flutter" 
-    title="Flutter"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="React" 
-    title="React"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-
-
-<br>
-<br>
-
 ## ⚙️ Ferramentas
 
 <img 
@@ -110,24 +82,6 @@ Futuramente pretendo criar um canal para demonstrar alguns projetos e suas funç
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Pycharm" 
-    title="Pycharm"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="AndroidStudio" 
-    title="AndroidStudio"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" 
 />
 
 <img 
