@@ -57,11 +57,11 @@ Futuramente pretendo criar um canal para demonstrar alguns projetos e suas funç
 
 <img 
     align="left" 
-    alt="Dart" 
-    title="Dart"
+    alt="C#" 
+    title="C#"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" 
+    src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" 
 />
 
 <img 
