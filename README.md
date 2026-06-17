@@ -3,7 +3,7 @@
 **Desenvolvedor Backend e ML/IA**
 
 Sou técnico na área de desenvolvimento backend e automação.\
-Tenho 20 anos e Atualmente sou desenvolvedor de automações e Sistemas WebApps.\
+Tenho 20 anos e Atualmente sou desenvolvedor de automações e processos.\
 Busco uma oportunidade como Dev Júnior ou Estagiário para desenvolver e estudar projetos reais.\
 Futuramente pretendo criar um canal para demonstrar alguns projetos e suas funções.
 
