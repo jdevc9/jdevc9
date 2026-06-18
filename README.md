@@ -2,7 +2,7 @@
 
 **QA Automation Engineer • Security Researcher • Bug Hunter** 
 
-Automating quality, discovering vulnerabilities, and building secure software..
+Specialized in test automation, software quality assurance, and vulnerability discovery. Experienced in analyzing web applications,\ identifying security weaknesses, and contributing to more secure and reliable systems.\
 
 
 <p align="left">
