@@ -73,6 +73,15 @@ Futuramente pretendo criar um canal para demonstrar alguns projetos e suas funç
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Go" 
+    title="Go"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" 
+/>
+
 <br>
 <br>
 
@@ -103,15 +112,6 @@ Futuramente pretendo criar um canal para demonstrar alguns projetos e suas funç
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Go" 
-    title="Go"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" 
 />
 
 <br>
