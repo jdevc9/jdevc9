@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6A00FE&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Josué+.;Seja-bem+vindo+ao+meu+Github👍;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6A00FE&size=35&center=true&vCenter=true&width=1000&lines=Hello.;Welcome+to+my+Github👍;)](https://git.io/typing-svg)
 
 **QA Automation Engineer • Security Researcher • Bug Hunter** 
 
