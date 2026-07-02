@@ -2,24 +2,24 @@
 
 **Backend • Automation • Bug hunter** 
 
-Atualmente focado em:
+Currently focused on:
 
-- Desenvolvimento de sistemas Python
-- Automação de processos
-- Pesquisa de vulnerabilidades
-- APIs e Microsserviços
-- Inteligência Artificial
+- Python system development
+- Process automation
+- Vulnerability research
+- APIs and Microservices
+- Artificial Intelligence
 
 ---
 
-## Atualmente estudando
+## Currently studying
 
 - [x] Python
-- [x] Git e GitHub
+- [x] Git and GitHub
 - [x] Docker
-- [x] Pentest Web 
+- [x] Web Pentesting
 - [ ] AWS
-- [ ] Kubernets
+- [ ] Kubernetes
 
 
 <p align="left">
