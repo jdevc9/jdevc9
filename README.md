@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6A00FE&size=35&center=true&vCenter=true&width=1000&lines=Olá.;Eu+sou+Josué👍;)](https://git.io/typing-svg)
 
-**Backend • Automation • Bug hunter** 
+**Backend • Automation • Pentester** 
 
 Currently focused on:
 
@@ -153,6 +153,6 @@ Currently focused on:
 
 
 <!---
-joshcode33/joshcode33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+jdevc9/jdevc9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
