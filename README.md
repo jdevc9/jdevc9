@@ -1,8 +1,25 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6A00FE&size=35&center=true&vCenter=true&width=1000&lines=Hello.;Welcome+to+my+Github👍;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6A00FE&size=35&center=true&vCenter=true&width=1000&lines=Olá.;Eu+sou+Josué👍;)](https://git.io/typing-svg)
 
-**QA Automation Engineer • Security Researcher • Bug Hunter** 
+**Backend • Automation • Bug hunter** 
 
-Specialized in test automation, software quality assurance, and vulnerability discovery. Experienced in analyzing web applications,\ identifying security weaknesses, and contributing to more secure and reliable systems.\
+Atualmente focado em:
+
+- Desenvolvimento de sistemas Python
+- Automação de processos
+- Pesquisa de vulnerabilidades
+- APIs e Microsserviços
+- Inteligência Artificial
+
+---
+
+## Atualmente estudando
+
+- [x] Python
+- [x] Git e GitHub
+- [x] Docker
+- [x] Pentest Web 
+- [ ] AWS
+- [ ] Kubernets
 
 
 <p align="left">
