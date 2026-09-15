@@ -1,13 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6A00FE&size=35&center=true&vCenter=true&width=1000&lines=Olá.;Eu+sou+Josué👍;)](https://git.io/typing-svg)
 
-**Backend • Automation • Pentester** 
+**Software Developer • Automation • SaaS Builder** 
 
 Currently focused on:
 
-- Python system development
+- System SaaS
 - Process automation
-- Vulnerability research
-- APIs and Microservices
+- API's Integrations
+- Chatbots and Multichannel
 - Artificial Intelligence
 
 ---
@@ -17,7 +17,9 @@ Currently focused on:
 - [x] Python
 - [x] Git and GitHub
 - [x] Docker
-- [x] Web Pentesting
+- [x] Security Web
+- [x] API's REST
+- [x] IA
 - [ ] AWS
 - [ ] Kubernetes
 
@@ -59,16 +61,6 @@ Currently focused on:
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
-
-
-<img 
-    align="left" 
-    alt="C#" 
-    title="C#"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
-/>
 
 <img 
     align="left" 
@@ -117,7 +109,7 @@ Currently focused on:
     title="Kali Linux"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
 />
 
 <br>
