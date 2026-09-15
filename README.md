@@ -83,6 +83,47 @@ Currently focused on:
 <br>
 <br>
 
+## ⚙️ Frameworks
+
+<img 
+    align="left" 
+    alt="Go" 
+    title="Go"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Go" 
+    title="Go"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Go" 
+    title="Go"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Go" 
+    title="Go"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+
+<br>
+<br>
+
 ## ⚙️ Ferramentas
 
 <img 
